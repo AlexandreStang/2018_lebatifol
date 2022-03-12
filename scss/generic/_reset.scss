@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/*
+ *Theme Name: Thème Restaurant Le Batifol
+ *Author: Maxime Lampron, Alexandre Stang, Nathan Barry
+ *Description: Création d'un thème WordPress bilingue et mobile pour le restaurant Le Batifol du Lac Beauport.
+ *Version: 0.1
+ *Tags: Thème personnalisé, Restaurant, Lac Beauport
+ *This theme, like WordPress, is licensed under the GPL. Use it to make something cool, have fun, and
+ *share what you've learned with others.
+ */
+
+@import "normalize";
+
+html{
+  box-sizing: border-box;
+}
+
+*,*:before,*:after{
+  box-sizing: inherit;
+}
+

@@ -1,0 +1,8 @@
+{
+  "in": ["scss/_styles.scss"],
+  "out": "css/styles.css",
+  "sass": true,
+  "autoprefixer": true,
+  "minifier": false,
+  "sourcemaps": true
+}

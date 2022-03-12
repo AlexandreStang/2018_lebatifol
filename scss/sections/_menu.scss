@@ -1,0 +1,82 @@
+.section-menu .menu-col {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+  margin-bottom: 60px;
+}
+
+.section-menu .menu-col > div {
+  width: 48%;
+}
+
+.section-menu .menu-col > div > div:not(:last-of-type) {
+  margin-bottom: 20px;
+}
+
+.section-menu .menu-col > div > span {
+  content: '';
+  background: $grey;
+
+  display: block;
+  width: 100%;
+  height: 1px;
+
+  margin: 60px auto 20px;
+}
+
+.section-menu .menu-meal {
+  justify-content: space-between;
+}
+
+.section-menu .menu-meal .meal-name {
+  font-family: $ff-title;
+  font-weight: $fw-bold;
+}
+
+.section-menu .menu-meal .meal-desc {
+max-width: 370px;
+}
+
+.section-menu .menu-meal .meal-price {
+  font-family: $ff-title;
+  color: $red;
+}
+
+.section-menu .menu-meal .meal-price sup {
+  z-index: -1;
+}
+
+.menu-col > div{
+  margin-bottom: 15px;
+}
+
+// - - - - MÉDIAS - - - -
+
+@media screen and (max-width: $vw-tablet) {
+
+  .section-menu .menu-col {
+     justify-content: center;
+   }
+
+  .section-menu .menu-col > div {
+    width: 70%;
+  }
+
+  .section-menu .menu-col > div:not(:first-of-type) {
+    margin-top: 20px;
+  }
+
+}
+
+@media screen and (max-width: $vw-phone) {
+
+  .section-menu .menu-col > div {
+    width: 100%;
+  }
+
+  .section-menu .menu-meal .meal-desc {
+    max-width: 250px;
+  }
+
+}
