@@ -17,7 +17,8 @@ z-index: 0;
 }
 
 .hero.menuList {
-  background-image: url("../img/menu_hero");
+  background-image: url("../img/menus_hero.jpg");
+  background-position: 0 75%;
 }
 
 .hero a.button {
@@ -79,7 +80,7 @@ z-index: 0;
 }
 
 .hero .hero-content h1 {
-  font-size: $fs-title-2;
+  font-size: $fs-title-1;
 }
 
 .hero .hero-content button {
