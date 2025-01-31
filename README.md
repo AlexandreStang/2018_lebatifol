@@ -14,7 +14,7 @@ The original Wordpress website is sadly no longer available online. [Click here 
 - **Frontend:** Javascript, SCSS & HTML
 - **Backend:** PHP
 - **CMS:** WordPress
-- **Design:** Adobe Photoshop & Adobe Illustrator
+- **Design:** Adobe Photoshop
 
 ## 📩 Contact
 
