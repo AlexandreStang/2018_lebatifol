@@ -55,9 +55,15 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 
-    if(document.getElementById("pop-up-close")){
+    if (document.getElementById("pop-up-close")) {
+
+        disableScroll();
+
         document.getElementById("pop-up-close").addEventListener("click", function (ev) {
             document.getElementById("pop-up-container").style.display = "none";
+
+            enableScroll();
+
         });
     }
 
