@@ -1,9 +1,7 @@
-# Wordpress Restaurant Website
+# Le Batifol
 
-> A Wordpress theme made with PHP designed for a restaurant website. The restaurant in question
-> is a local restaurant called [Le Batifol](https://www.lebatifol.com/fr/lac-beauport/accueil), with 
-> all the images coming from a previous iteration of their website.
-
+> A custom WordPress theme built with PHP, designed specifically for the local restaurant [Le Batifol](https://www.lebatifol.com/fr/lac-beauport/accueil). 
+> The theme incorporates images sourced from a previous version of their website.
 
 ![Home page](/og-image.png)
 
