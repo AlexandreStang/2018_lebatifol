@@ -11,7 +11,7 @@ The original Wordpress website is sadly no longer available online. [Click here 
 
 ## ⚡ Technologies Used
 
-- **Frontend:** Javascript, SCSS & HTML
+- **Frontend:** Javascript, SCSS
 - **Backend:** PHP
 - **CMS:** WordPress
 - **Design:** Adobe Photoshop
