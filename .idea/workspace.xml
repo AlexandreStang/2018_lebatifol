@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d802a93-c6d4-423b-b491-3243d1f35149" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="9d802a93-c6d4-423b-b491-3243d1f35149" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -206,7 +204,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Alexandre Stang/Documents/0_Projects/Web/2018_lebatifol",
+    "last_opened_file_path": "C:/Users/Alexandre Stang/Documents/0_Projects/Web/2018_portfolio",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -250,7 +248,7 @@
       <workItem from="1539959701244" duration="7000" />
       <workItem from="1539959715308" duration="9454000" />
       <workItem from="1540002490479" duration="23390000" />
-      <workItem from="1738387044115" duration="7000" />
+      <workItem from="1738387044115" duration="26000" />
     </task>
     <servers />
   </component>
