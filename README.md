@@ -1,13 +1,15 @@
 # Le Batifol
 
-> A custom WordPress theme built with PHP and designed specifically for the local restaurant [Le Batifol](https://www.lebatifol.com/fr/lac-beauport/accueil). 
+> A custom WordPress theme built with PHP and designed specifically for the local
+> restaurant [Le Batifol](https://www.lebatifol.com/fr/lac-beauport/accueil).
 > The theme incorporates images sourced from a previous version of their website.
 
 ![Home page](/og-image.png)
 
 ## 🚀 Live Demo
 
-The original Wordpress website is sadly no longer available online. [Click here to see a static mockup of the site!](https://alexandrestang.github.io/2018_lebatifol/)
+The original Wordpress website is sadly no longer available
+online. [Click here to see a static mockup of the site!](https://alexandrestang.github.io/batifol/)
 
 ## ⚡ Technologies Used
 
