@@ -9,7 +9,7 @@
 ## 🚀 Live Demo
 
 The original Wordpress website is sadly no longer available
-online. [Click here to see a static mockup of the site!](https://alexandrestang.github.io/batifol/)
+online. [An outdated, static mockup of the site can be found here.](https://alexandrestang.github.io/batifol/)
 
 ## ⚡ Technologies Used
 
