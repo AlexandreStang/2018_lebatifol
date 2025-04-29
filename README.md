@@ -13,7 +13,7 @@ online. [An incomplete, static mockup of the site, created before the WordPress 
 
 ## ⚡ Technologies Used
 
-- **Frontend:** PHP, Javascript, SCSS, HTML
+- **Frontend:** PHP, Javascript, SCSS
 - **CMS:** WordPress
 - **Design:** Adobe Photoshop
 
